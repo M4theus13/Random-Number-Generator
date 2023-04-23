@@ -12,10 +12,10 @@
 <img width="100%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Random-Number-Generator/desktop.png">
   
 <h2>Tablets</h2>
-<img width="70%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Random-Number-Generator/mobile.png">
+<img width="70%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Random-Number-Generator/tablet.png">
   
 <h2>Mobile</h2>
-<img width="30%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Random-Number-Generator/tablet.png">
+<img width="30%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Random-Number-Generator/mobile.png">
 
 <h2 align="center"> ⚙ Tecnologias </h2>
 
