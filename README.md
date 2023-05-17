@@ -10,17 +10,23 @@
 
 <div align="center">
   <h2>Desktop</h2>
-  <img width="100%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Random-Number-Generator/desktop.png">
+  <a href='https://github.com/M4theus13'>
+    <img width="100%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Random-Number-Generator/desktop.png">
+  </a>
 </div> 
  
 <div align="center">
   <h2>Tablets</h2>
-  <img width="70%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Random-Number-Generator/tablet.png">
+  <a href='https://github.com/M4theus13'>
+    <img width="70%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Random-Number-Generator/tablet.png">
+  </a>
 </div>
   
 <div align="center">
   <h2>Mobile</h2>
-  <img width="30%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Random-Number-Generator/mobile.png">
+  <a href='https://github.com/M4theus13'>
+    <img width="30%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Random-Number-Generator/mobile.png">
+  </a>
 </div>
   
 <h2 align="center"> ⚙ Tecnologias </h2>
