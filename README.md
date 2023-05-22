@@ -40,4 +40,4 @@ Para testar o site, segue o <a href="https://random-number-generator.bohr.io">Li
   
 <h2 align="center"> ⚙ Tecnologias </h2>
 
-<p align="center"> 🟠HTML<br/> 🟣CSS<br/> 🟡JavaScript<br/> ⚫Github</p>
+<p align="center"> 🟠Html<br/> 🟣Css<br/> 🟡JavaScript<br/> ⚫Github</p>
